@@ -1,2 +1,2 @@
-# Accordion Effect Using Css3
- Using Css3
+# AOT Accordion
+> with Css3 Effect
